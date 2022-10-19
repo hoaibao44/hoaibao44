@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hoaibao44
 - 👀 I’m interested in RPA/robotic/data and some funny web apps project~
-- 🌱 I’m currently learning Django
+- 👀 A fan of Django, DRF, Django-ninja
+- 🌱 I’m currently learning Nestjs
 - 📫 Mail: hoaibao.nhb@gmail.com
 
 <!---
