@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hoaibao44
-- 👀 I’m interested in RPA/robotic/data and some funny web apps project~
+- 👋 Hi, I’m @Bao
+- 👀 Interested in RPA/robotic/data and some funny web apps project~
 - 👀 A fan of Django, DRF and Angular
-- 🌱 I’m currently working with Nestjs, Vue (feel sorry for using them but not a fan of them)
+- 🌱 Currently working with Nestjs, Vue 
 - 📫 Mail: hoaibao.nhb@gmail.com
 
 <!---
