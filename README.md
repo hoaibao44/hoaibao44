@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Bao
-- 👀 Interested in RPA/robotic/data and some funny web apps project~
-- 👀 A fan of Django, DRF and Angular
-- 🌱 Currently working with Nestjs, Vue 
-- 📫 Mail: hoaibao.nhb@gmail.com
+- Things are mean to be hard, if we learn to enjoy the hardness, we win a life.
 
 <!---
 hoaibao44/hoaibao44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
