@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Bao
 - Things are mean to be hard, if we learn to enjoy the hardness, we win a life.
 
-[![hoaibao44's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoaibao44)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 hoaibao44/hoaibao44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
