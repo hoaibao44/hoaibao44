@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bao
 - Things are mean to be hard, if we learn to enjoy the hardness, we win a life.
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=hoaibao44&show_icons=true&locale=en&theme=tokyonight" alt="hoaibao44" /></p>
+[![hoaibao44's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoaibao44)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
